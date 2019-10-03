@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+### Wajahat Karim
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Android Developer . Open Source Contributor . Writer . Speaker . 
+- Github: https://github.com/wajahatkarim3
+***
